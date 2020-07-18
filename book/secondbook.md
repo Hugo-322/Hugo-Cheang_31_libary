@@ -1,7 +1,7 @@
 ---
 layout: layout.html
 tags: book      
-Title: JavaScript and jQuery
+Title2: JavaScript and jQuery
 Author: Jon Duckett
 ISBN: 9781118531648
 ---
