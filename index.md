@@ -6,10 +6,17 @@ layout: layout.html
 <p>
 <h2>Here are some of the book name:D</h2>
 <p>
-- *Title: HTML and CSS*
+  
+- **Title: HTML and CSS**
+
 <p>
-- *Title: JavaScript and jQuery*
+  
+- **Title: JavaScript and jQuery**
+
 <p>
-- *Title: Head First HTML and CSS*
+  
+- **Title: Head First HTML and CSS**
+
 <p>
-- *Title: Digital Minimalism*
+  
+- **Title: Digital Minimalism**
