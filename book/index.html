@@ -1,1 +1,21 @@
+---
+layout: layout.html
+---
 
+
+<h2>Hello</h2>
+<p>
+Here is the book name
+
+
+<ul>
+{%- for post in collections.post reversed -%}
+  <li>
+    <a href="{{book.url}}">
+      {{ book.data.title }}
+    </a>
+    <p>
+    </p>
+  </li>
+{%- endfor -%}
+</ul>
