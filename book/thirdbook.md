@@ -1,7 +1,7 @@
 ---
 layout: layout.html
 tags: book      
-Title: Head First HTML and CSS
+title: Head First HTML and CSS
 Author: Elisabeth Robson and Eric Freeman
 ISBN: 9780596159900
 ---
